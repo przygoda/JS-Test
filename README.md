@@ -2,4 +2,4 @@
 
 ##  Hello World
 
-Terminalingabe: 
+Terminaleingabe: node .
